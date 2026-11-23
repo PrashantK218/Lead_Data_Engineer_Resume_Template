@@ -2,5 +2,5 @@
 #### If you find this template useful, please do follow my github account. I am going to add much more useful stuffs regarding resumes, interviews portfolio projects and more.
 
 <div align="center">
-    <img src="[https://github.com/PrashantK218/Pyspark/blob/c616253140152ac4b499ce591cbee39dd506d897/images/spark_ecosystem_components.png](https://github.com/PrashantK218/Lead_Data_Engineer_Resume_Template/blob/main/design-space-black-board.jpg)" alt="Alt Text" style="width:50%;       height:auto;">
+    <img src="https://github.com/PrashantK218/Lead_Data_Engineer_Resume_Template/blob/main/design-space-black-board.jpg" alt="Alt Text" style="width:50%;       height:auto;">
 </div>
